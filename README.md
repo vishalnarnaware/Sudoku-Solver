@@ -7,13 +7,6 @@ In this project, you will extend the Sudoku-solving agent developed in the class
 
 ## Quickstart Guide
 
-### Notes
-
-- You will not receive credit for the project until you submit the zip file created by `udacity submit` in your classroom.
-
-- You must submit _exactly_ the zip file created by the CLI in step 3 to the classroom; if you make any changes to the file, you'll receive an error message when you attempt to submit in the classroom.
-
-
 ## Instructions
 
 You must complete the required functions in the 'solution.py' file (copy in code from the classroom where indicated, and add or extend with new code as described below). The `test_solution.py` file includes a few unit tests for local testing, but the primary mechanism for testing your code is the Udacity Project Assistant command line utility described in the next section.
